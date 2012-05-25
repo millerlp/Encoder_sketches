@@ -1,0 +1,6 @@
+These are a set of Arduino sketches to test reading motor encoder pulse counting.
+I am testing these against a Pololu 37D gear reduction electric motor with a 
+64-count-per-revolution encoder on the motor armature. 
+
+Unfortunately at this time, it seems like every version of these sketches misses the
+occasional encoder pulse.
